@@ -1,0 +1,98 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light. Perfect for beginners, the Snake Plant is nearly indestructible and adds a sleek, modern look to any room. It removes toxins like formaldehyde and benzene from the air.",
+    "image": "https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?w=600&q=80",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical",
+    "price": 35,
+    "rating": 4.9,
+    "availableStock": 7,
+    "careLevel": "Moderate",
+    "description": "The iconic Swiss Cheese Plant with dramatic split leaves that bring a lush, tropical vibe to any space. Thrives in bright indirect light and loves humidity. A statement piece for living rooms and offices alike.",
+    "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?w=600&q=80",
+    "providerName": "Jungle Leaf Co."
+  },
+  {
+    "plantId": 3,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "An elegant plant with glossy dark leaves and white blooms that brighten any corner. Peace Lilies are excellent air purifiers and thrive in low to medium light. They signal when they need water by slightly drooping.",
+    "image": "https://images.unsplash.com/photo-1616690248441-9e4b4e5e5e5e?w=600&q=80",
+    "providerName": "BloomNest Gardens"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Pothos",
+    "category": "Trailing",
+    "price": 12,
+    "rating": 4.6,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "One of the easiest houseplants to grow, Pothos features heart-shaped leaves on trailing vines. It tolerates low light, irregular watering, and neglect — making it perfect for busy plant parents. Great for shelves and hanging baskets.",
+    "image": "https://images.unsplash.com/photo-1572688484438-313a6e50c333?w=600&q=80",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Statement",
+    "price": 55,
+    "rating": 4.5,
+    "availableStock": 5,
+    "careLevel": "Hard",
+    "description": "A designer favorite with large, violin-shaped leaves that make a bold statement. The Fiddle Leaf Fig loves bright, indirect light and consistent watering. It can grow up to 6 feet indoors, becoming a stunning focal point.",
+    "image": "https://images.unsplash.com/photo-1545241047-6083a3684587?w=600&q=80",
+    "providerName": "Jungle Leaf Co."
+  },
+  {
+    "plantId": 6,
+    "plantName": "ZZ Plant",
+    "category": "Low Maintenance",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "The ZZ Plant is virtually indestructible with its waxy, dark green leaves and drought-tolerant nature. It thrives in low light and only needs watering every 2–3 weeks. An ideal choice for offices and rooms with minimal natural light.",
+    "image": "https://images.unsplash.com/photo-1632207691143-643e2a9a9361?w=600&q=80",
+    "providerName": "BloomNest Gardens"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Rubber Plant",
+    "category": "Air Purifier",
+    "price": 32,
+    "rating": 4.6,
+    "availableStock": 8,
+    "careLevel": "Moderate",
+    "description": "With its large, glossy burgundy and green leaves, the Rubber Plant is both a visual delight and an air purifier. It prefers bright indirect light and moderate watering. A great choice for adding color and drama to your indoor space.",
+    "image": "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?w=600&q=80",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Aloe Vera",
+    "category": "Succulent",
+    "price": 15,
+    "rating": 4.8,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "A versatile succulent known for its soothing gel used in skincare and burns. Aloe Vera thrives in bright light with minimal watering. It's a must-have plant for every home — both decorative and medicinal.",
+    "image": "https://images.unsplash.com/photo-1596547609652-9cf5d8d76921?w=600&q=80",
+    "providerName": "BloomNest Gardens"
+  }
+]

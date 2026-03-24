@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background-color: #f9fafb;
+    color: #1f2937;
+  }
+}
+
+/* Swiper custom styles */
+.swiper-pagination-bullet-active {
+  background-color: #16a34a !important;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  color: #16a34a !important;
+}
