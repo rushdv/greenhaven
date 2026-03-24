@@ -110,6 +110,7 @@ const Register = () => {
             <input
               type="url"
               name="photoURL"
+              required
               value={form.photoURL}
               onChange={handleChange}
               placeholder="https://example.com/photo.jpg"

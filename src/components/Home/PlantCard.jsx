@@ -16,6 +16,9 @@ const PlantCard = ({ plant }) => {
         <img
           src={image}
           alt={plantName}
+          onError={(e) => {
+            e.target.src = "https://images.unsplash.com/photo-1545241047-6083a3684587?q=80&w=800";
+          }}
           className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
         />
         <span className="absolute top-3 left-3 bg-white/90 text-green-700 text-xs font-semibold px-3 py-1 rounded-full">

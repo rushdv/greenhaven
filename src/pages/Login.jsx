@@ -23,6 +23,7 @@ const Login = () => {
   const [password, setPassword] = useState("");
   const [showPass, setShowPass] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [resetSent, setResetSent] = useState(false);
 
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -55,7 +56,8 @@ const Login = () => {
     }
     try {
       await resetPassword(email);
-      toast.success("Password reset email sent! Check your inbox.");
+      setResetSent(true);
+      toast.success("Password reset email sent!");
     } catch (err) {
       toast.error(err.message || "Failed to send reset email.");
     }
@@ -107,7 +109,7 @@ const Login = () => {
             </div>
           </div>
 
-          <div className="text-right">
+          <div className="flex flex-col items-center gap-2">
             <button
               type="button"
               onClick={handleForgotPassword}
@@ -115,6 +117,16 @@ const Login = () => {
             >
               Forgot Password?
             </button>
+            {resetSent && (
+              <a
+                href="https://mail.google.com"
+                target="_blank"
+                rel="noreferrer"
+                className="text-xs text-blue-600 hover:underline flex items-center gap-1"
+              >
+                Go to Gmail ↗
+              </a>
+            )}
           </div>
 
           <button

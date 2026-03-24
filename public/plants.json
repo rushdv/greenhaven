@@ -24,17 +24,17 @@
     "providerName": "Jungle Leaf Co."
   },
   {
-    "plantId": 3,
-    "plantName": "Peace Lily",
-    "category": "Flowering",
-    "price": 22,
-    "rating": 4.7,
-    "availableStock": 15,
-    "careLevel": "Easy",
-    "description": "An elegant plant with glossy dark leaves and white blooms that brighten any corner. Peace Lilies are excellent air purifiers and thrive in low to medium light. They signal when they need water by slightly drooping.",
-    "image": "https://images.unsplash.com/photo-1616690248441-9e4b4e5e5e5e?w=600&q=80",
-    "providerName": "BloomNest Gardens"
-  },
+  "plantId": 3,
+  "plantName": "Peace Lily",
+  "category": "Flowering",
+  "price": 22,
+  "rating": 4.7,
+  "availableStock": 15,
+  "careLevel": "Easy",
+  "description": "An elegant plant with glossy dark leaves and white blooms that brighten any corner. Peace Lilies are excellent air purifiers and thrive in low to medium light. They signal when they need water by slightly drooping.",
+  "image": "https://images.unsplash.com/photo-1593691509543-c55fb32e7355?auto=format&fit=crop&q=80&w=800",
+  "providerName": "BloomNest Gardens"
+},
   {
     "plantId": 4,
     "plantName": "Pothos",

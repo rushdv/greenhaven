@@ -3,7 +3,7 @@ const ideas = [
     id: 1,
     title: "Shelf Jungle",
     description: "Layer trailing pothos and small succulents on floating shelves for a lush, layered look.",
-    image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1545241047-6083a3684587?w=600&q=80",
     tag: "Living Room",
   },
   {
@@ -17,7 +17,7 @@ const ideas = [
     id: 3,
     title: "Desk Companion",
     description: "A small ZZ plant or snake plant on your desk boosts focus and purifies the air around you.",
-    image: "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=600&q=80",
+    image: "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&q=80",
     tag: "Home Office",
   },
 ];
